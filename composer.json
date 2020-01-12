@@ -1,5 +1,5 @@
 {
-    "name": "supercool/tablemaker",
+    "name": "thirstcreative/tablemaker-graphql",
     "description": "A user-definable table field type for Craft CMS",
     "type": "craft-plugin",
     "version": "2.0.1",
